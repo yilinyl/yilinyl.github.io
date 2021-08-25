@@ -6,8 +6,8 @@ title: Yilin Liu # the website title (if blank, full name will be used instead)
 first_name: Yilin
 middle_name: 
 last_name: Liu
-email: you@example.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+email: yilin9705@gmail.com
+description:  # the ">" symbol means to ignore newlines until "footer_text:"
   First year PhD student in Computational Biology at Cornell University
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
