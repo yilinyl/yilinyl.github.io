@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Coming soon...
 nav: true
-display_categories: 
+display_categories: false
 horizontal: false
 ---
 <div class="projects">
