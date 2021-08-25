@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project 1
-description: a project with a background image
+description: Sample project 1
 img: /assets/img/12.jpg
 importance: 1
 category: work
