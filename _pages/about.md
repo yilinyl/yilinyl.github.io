@@ -7,6 +7,7 @@ permalink: /
 profile:
   align: right
   image: yl_personal.jpeg
+
   address: >
     <p>Photo shot at Qingdao, China.</p>
 
@@ -24,3 +25,4 @@ I am a PhD student in Computational Biology at Cornell University. My research i
 * Biomedical Engineering, B.S., Southeast University (Nanjing, China), 2015-2019 -->
 
 Outside of academia, I enjoy ballet and watercolor painting.
+
