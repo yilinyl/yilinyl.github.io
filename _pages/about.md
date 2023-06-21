@@ -15,8 +15,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in Computational Biology at Cornell University. I reckon myself as a "multidisciplinary" person. I received my master's degree in Biostatistics at Yale and bachelor's degree in Biomedical Engineering at Southeast University, Nanjing, China. 
-
+I am a PhD student in Computational Biology at Cornell University. My research interests are primarily in machine learning, and in particular its application in variant prioritization, protein-protein interaction networks and structural biology.
 <!-- My research interest -->
+
+### Education
+
+* Biostatistics, M.S., Yale University, 2019-2021
+* Biomedical Engineering, B.S., Southeast University (Nanjing, China), 2015-2019
 
 Outside of academia, I enjoy ballet and watercolor painting.
