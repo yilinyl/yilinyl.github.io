@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 I am a PhD student in Computational Biology at Cornell University. My research interests are primarily in machine learning, and in particular its application in variant prioritization, protein-protein interaction networks and structural biology.
 <!-- My research interest -->
 
-### Education
+<!-- ### Education
 
 * Biostatistics, M.S., Yale University, 2019-2021
-* Biomedical Engineering, B.S., Southeast University (Nanjing, China), 2015-2019
+* Biomedical Engineering, B.S., Southeast University (Nanjing, China), 2015-2019 -->
 
 Outside of academia, I enjoy ballet and watercolor painting.
