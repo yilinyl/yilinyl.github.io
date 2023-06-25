@@ -37,6 +37,14 @@ I'm also open to other interesting topics:)
 * Biostatistics, M.S., Yale University, 2019-2021
 * Biomedical Engineering, B.S., Southeast University (Nanjing, China), 2015-2019
 
+### Teaching
+
+* **BTRY 4381/6381 Biomedical Data Mining and Modeling**
+
+  Teaching Assistant | 2022 Fall | Cornell University
+
+  <!-- A biomedical data science course using Python and available bioinformatics tools and techniques for the analysis of molecular biological data, including biosequences, and networks. Practical skills are emphasized. Topics include advanced Python programming, R and Bioconductor, sequence alignment, introduction to web development, genomics and proteomics data mining and analysis, machine learning, and methods for inferring and analyzing regulatory, protein-protein interaction networks. -->
+
 ### Miscellaneous
 Outside of academia, I love ballet, Chinese dance and watercolor painting. In particular, I enjoy rehearsals and performances with [Cornell Amber Dance Troupe](https://www.cornellamberdance.com/) in presenting the beauty of traditional Chinese dance.
 
