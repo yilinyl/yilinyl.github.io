@@ -41,7 +41,7 @@ I'm also open to other interesting topics:)
 
 * **BTRY 4381/6381 Biomedical Data Mining and Modeling**
 
-  Teaching Assistant | 2022 Fall | Cornell University
+  Teaching Assistant \| 2022 Fall \| Cornell University
 
   <!-- A biomedical data science course using Python and available bioinformatics tools and techniques for the analysis of molecular biological data, including biosequences, and networks. Practical skills are emphasized. Topics include advanced Python programming, R and Bioconductor, sequence alignment, introduction to web development, genomics and proteomics data mining and analysis, machine learning, and methods for inferring and analyzing regulatory, protein-protein interaction networks. -->
 
