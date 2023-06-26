@@ -1,14 +1,8 @@
 ---
 layout: page
-<<<<<<< HEAD:_projects/project01.markdown
-title: Project 1
-description: Sample project 1
-img: /assets/img/12.jpg
-=======
 title: project 1
 description: a project with a background image
 img: assets/img/12.jpg
->>>>>>> upstream/master:_projects/1_project.md
 importance: 1
 category: work
 ---
@@ -82,9 +76,5 @@ Here's the code for the last row of images above:
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<<<<<<< HEAD:_projects/project01.markdown
-```
-=======
 ```
 {% endraw %}
->>>>>>> upstream/master:_projects/1_project.md
